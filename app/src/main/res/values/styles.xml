@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SpinnerTextStyle" parent="Widget.AppCompat.Spinner.DropDown">
+        <item name="android:textColor">@color/white</item> <!-- Change to your desired text color -->
+    </style>
+</resources>
